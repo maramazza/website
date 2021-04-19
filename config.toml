@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Matteo Mazzoli Web Site"
+theme = "hugo-theme-nix"
+[params]
+  Name = "Matteo Mazzoli"
+  HeaderUsername = "maramazza"
+  HeaderHostname = "home"
+  About = "Hi I'm Matteo and this is my website. I am a developer, writer and family man. I like developing websites using Open Source Tool, sports and family. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "/profile.jpeg"
+  FacebookID = "mazzoli.matteo"
+  GithubID = "maramazza"
+  InstagramID = "maramazza"
+  LinkedInID = "matteomazzoli"
+  TwitterID = "_Maramazza_"
+[menu]
+  [[menu.header]]
+    identifier = "post"
+    name = "posts"
+    weight = 0
+  [[menu.header]]
+    parent = "post"
+    name = "All Posts"
+    url = "/posts"
+  [[menu.header]]
+    parent = "post"
+    name = "categories"
+    url = "/categories"
+  [[menu.header]]
+    parent = "post"
+    name = "tags"
+    url = "/tags"
