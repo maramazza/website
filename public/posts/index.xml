@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Matteo Mazzoli Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 12:44:09 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Oct 2021 07:31:36 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare</title>
+      <link>/posts/cloudflare/</link>
+      <pubDate>Thu, 07 Oct 2021 07:31:36 +0200</pubDate>
+      
+      <guid>/posts/cloudflare/</guid>
+      <description>New Web Site made by Hugo, GitHub &amp;amp; Cloudflare Page A Completely new way to deploy my web Site! Not so easy but now I&amp;rsquo;m ready to explain to you my workflow! Are you ready?</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>/posts/hello-world/</link>
